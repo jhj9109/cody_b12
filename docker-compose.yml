@@ -1,0 +1,16 @@
+name: "cody b1-2"
+
+services:
+  agent-app:
+    build: .
+    container_name: codyssey-troubleshooter
+    ports:
+      # 포트 매핑 (과제 조건: 15034 포트 바인딩)
+      - "15034:15034"
+    volumes:
+      # 호스트의 app 폴더를 컨테이너 내부에 마운트
+      - ./app:/home/codyssey/agent/app
+      - ./logs:/home/codyssey/agent/logs
+    env_file:
+      # .env 파일 로드
+      - .env
