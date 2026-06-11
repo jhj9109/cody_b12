@@ -1,0 +1,14 @@
+=================================================
+ 관제 모니터링 시작 (대상: agent-app-leak)
+=================================================
+[2026-06-11 13:36:04] PROCESS:agent-leak-app CPU:0.0% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:07] PROCESS:agent-leak-app CPU:3.0% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:10] PROCESS:agent-leak-app CPU:1.5% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:13] PROCESS:agent-leak-app CPU:1.0% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:16] PROCESS:agent-leak-app CPU:0.7% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:19] PROCESS:agent-leak-app CPU:0.6% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:22] PROCESS:agent-leak-app CPU:0.5% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:25] PROCESS:agent-leak-app CPU:0.4% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:28] PROCESS:agent-leak-app CPU:0.3% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:31] PROCESS:agent-leak-app CPU:0.3% MEM:0.0% DISK:954G FIREWALL:active
+[2026-06-11 13:36:34] PROCESS:agent-leak-app CPU:0.3% MEM:0.0% DISK:954G FIREWALL:active

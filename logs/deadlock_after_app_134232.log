@@ -1,0 +1,40 @@
+>>> Starting Agent Boot Sequence...
+[1/6] Checking User Account               [OK]
+   ... Running as service user 'codyssey' (uid=1000)
+[2/6] Verifying Environment Variables     [OK]
+   ... All required Envs correct
+[3/6] Checking Required Files             [OK]
+   ... Verified 'secret.key' with correct key string.
+[4/6] Checking Port Availability          [OK]
+   ... Port 15034 is available.
+[5/6] Verifying Log Permission            [OK]
+   ... Log directory is writable: /home/codyssey/agent/logs
+[6/6] Verifying Mission Environment       [OK]
+   ... MEMORY_LIMIT=512MB, CPU_MAX_OCCUPY=100%, MULTI_THREAD_ENABLE=False
+------------------------------------------------------------
+All Boot Checks Passed!
+Agent READY
+2026-06-11 13:42:32,461 [INFO] [SafetyGuard] Process priority lowered (nice=10).
+2026-06-11 13:42:32,461 [INFO] Agent listening at port 15034
+
+==================================================
+ [ Agent Initiate ] Resource Check 
+==================================================
+ [ MEMORY ] Limit: 512MB 		[ OK ]
+ [ CPU    ] Limit: 100%  		[ WARNING: Recommend Under 50% ]
+ [ THREAD ] Concurrency: False 		[ OK ]
+--------------------------------------------------
+ >>> SYSTEM STATUS: STABLE. STARTING WORKLOAD MONITORING...
+==================================================
+
+2026-06-11 13:42:34,471 [INFO] [CpuWorker] Started. Maximum CPU Limit: 100%
+2026-06-11 13:42:34,471 [INFO] [CpuWorker] Current Load: 5.00%
+2026-06-11 13:42:37,586 [INFO] [CpuWorker] Current Load: 8.31%
+2026-06-11 13:42:40,719 [INFO] [CpuWorker] Current Load: 13.50%
+2026-06-11 13:42:43,833 [INFO] [CpuWorker] Current Load: 22.49%
+2026-06-11 13:42:46,948 [INFO] [CpuWorker] Current Load: 28.91%
+2026-06-11 13:42:50,066 [INFO] [CpuWorker] Current Load: 37.14%
+2026-06-11 13:42:53,179 [INFO] [CpuWorker] Current Load: 43.00%
+2026-06-11 13:42:56,291 [INFO] [CpuWorker] Current Load: 49.85%
+2026-06-11 13:42:59,399 [INFO] [CpuWorker] Current Load: 51.64%
+2026-06-11 13:42:59,500 [CRITICAL] [CpuWorker] CPU Threshold Violated! (51.64%).
