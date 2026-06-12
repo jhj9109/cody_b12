@@ -1,0 +1,285 @@
+=== 관제 모니터링 시작 (Test_08_512_30_0) ===
+[2026-06-12 13:03:13] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:8.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:5.0%   MEM:0.1%   RSS:17MB      STAT:SN+   THREADS:1  WCHAN:do_select
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:15] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:2.6%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:5.3%   MEM:0.1%   RSS:17MB      STAT:SN+   THREADS:1  WCHAN:do_select
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:17] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:1.6%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:4.2%   MEM:0.2%   RSS:43MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:19] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:1.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:3.5%   MEM:0.4%   RSS:68MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:21] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.8%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.7%   MEM:0.4%   RSS:68MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:23] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.7%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.8%   MEM:0.5%   RSS:93MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:25] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.6%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.7%   MEM:0.7%   RSS:118MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:27] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.5%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.4%   MEM:0.7%   RSS:118MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:29] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.4%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.3%   MEM:0.8%   RSS:143MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:31] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.4%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.4%   MEM:1.0%   RSS:168MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:33] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.3%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.2%   MEM:1.0%   RSS:168MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:35] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.3%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.2%   MEM:1.2%   RSS:193MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:37] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.3%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.2%   MEM:1.3%   RSS:218MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:39] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.1%   MEM:1.3%   RSS:218MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:41] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.1%   MEM:1.5%   RSS:243MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:43] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:2.0%   MEM:1.6%   RSS:268MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:45] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.9%   MEM:1.6%   RSS:268MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:47] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.9%   MEM:1.8%   RSS:293MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:49] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.9%   MEM:1.9%   RSS:318MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:51] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.9%   MEM:2.0%   RSS:322MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:53] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.9%   MEM:2.1%   RSS:340MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:55] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.9%   MEM:2.2%   RSS:365MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:57] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:2.4%   RSS:390MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:59] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:2.4%   RSS:390MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:01] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:2.5%   RSS:415MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:03] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:2.7%   RSS:440MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:06] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:2.7%   RSS:440MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:08] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:2.9%   RSS:465MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:10] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:3.0%   RSS:490MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:12] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:3.0%   RSS:490MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:14] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:3.2%   RSS:515MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:16] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:0.0%   RSS:15MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:18] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:0.0%   RSS:15MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:20] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:0.0%   RSS:15MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:22] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.8%   MEM:0.2%   RSS:40MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:24] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:0.4%   RSS:65MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:26] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:0.4%   RSS:65MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:28] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:0.5%   RSS:90MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:30] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:0.7%   RSS:115MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:32] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:0.7%   RSS:115MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:34] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:0.8%   RSS:140MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:36] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:1.0%   RSS:163MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:38] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:1.0%   RSS:163MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:40] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:1.1%   RSS:188MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:42] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:1.3%   RSS:213MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:44] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:1.3%   RSS:213MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:46] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:1.4%   RSS:238MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:48] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:1.6%   RSS:263MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:50] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:1.6%   RSS:263MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:52] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:1.7%   RSS:288MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:54] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:1.9%   RSS:313MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:56] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:1.9%   RSS:313MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:04:58] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:2.1%   RSS:338MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:00] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.7%   MEM:2.2%   RSS:363MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:02] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:2.2%   RSS:363MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:05] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:2.4%   RSS:388MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:07] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:2.5%   RSS:413MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:09] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:2.5%   RSS:413MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:11] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:2.7%   RSS:438MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:13] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:2.8%   RSS:463MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:15] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:2.8%   RSS:463MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:17] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:3.0%   RSS:488MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:19] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:3.2%   RSS:513MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:21] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:3.1%   RSS:511MB     STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:23] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:0.3%   RSS:63MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:25] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:0.3%   RSS:63MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:27] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:0.3%   RSS:63MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:29] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:0.3%   RSS:63MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:31] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.5%   MEM:0.3%   RSS:63MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:33] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.6%   MEM:0.5%   RSS:88MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:05:35] ⏱️ 관제 주기 갱신
+  부모(PID:39558) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:39560) | CPU:1.5%   MEM:0.5%   RSS:88MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------

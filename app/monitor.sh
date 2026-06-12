@@ -1,9 +1,11 @@
 #!/bin/bash
 
 # 과제 환경에 맞춘 대상 프로세스 이름 (x86, arm64 모두 매칭)
-PROCESS_NAME="agent-app-leak"
+PROCESS_NAME="agent-app"
 LOG_DIR="/home/codyssey/agent/logs"
 LOG_FILE="$LOG_DIR/monitor.log"
+
+# 작동 OK => But 프로세스 2개라 쉬고있는 부모만 추적함 ㅡㅡ;
 
 # 로그 디렉터리가 없으면 생성 (안전장치)
 mkdir -p $LOG_DIR

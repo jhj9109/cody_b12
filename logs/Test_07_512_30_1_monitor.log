@@ -1,0 +1,173 @@
+=== 관제 모니터링 시작 (Test_07_512_30_1) ===
+[2026-06-12 13:01:43] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:6.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:7.0%   MEM:0.1%   RSS:17MB      STAT:SN+   THREADS:1  WCHAN:do_select
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:45] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:2.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:2.3%   MEM:0.1%   RSS:17MB      STAT:SN+   THREADS:1  WCHAN:do_select
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:47] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:1.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:1.4%   MEM:0.1%   RSS:17MB      STAT:SN+   THREADS:1  WCHAN:do_select
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:49] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.8%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:1.0%   MEM:0.1%   RSS:17MB      STAT:SN+   THREADS:1  WCHAN:do_select
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:51] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.6%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.7%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:53] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.5%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.5%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:55] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.4%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.5%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:57] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.3%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.4%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:01:59] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.3%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.3%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:01] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.3%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.3%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:03] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.3%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:05] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.2%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:07] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.2%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:09] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.2%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:11] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.2%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.2%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:13] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.2%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:15] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.2%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:17] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:19] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.1%   RSS:18MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:21] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:23] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:25] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:27] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:29] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:32] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:34] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:36] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:38] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:40] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:42] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.1%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:44] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:46] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:48] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:50] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.1%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:52] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:54] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:56] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:02:58] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:00] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:02] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:04] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:13MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:06] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:11MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
+[2026-06-12 13:03:08] ⏱️ 관제 주기 갱신
+  부모(PID:26047) | CPU:0.0%   MEM:0.0%   RSS:2MB       STAT:S+    THREADS:1  WCHAN:do_wait
+  자식(PID:26049) | CPU:0.0%   MEM:0.0%   RSS:11MB      STAT:SNl+  THREADS:3  WCHAN:futex_wait
+-----------------------------------------------------------------------------------
